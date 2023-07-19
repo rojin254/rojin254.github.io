@@ -1,0 +1,35 @@
+.about-container {
+  text-align: center;
+  padding-top: 5%;
+  .NAME {
+    color: #86c232;
+    font-family: Racing Sans One;
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .desc {
+    margin: 2% 10%;
+    color: #558b2f;
+    text-align: center;
+    font-family: Roboto Mono;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .subdesc{
+    margin: 1% 14%;
+    color: #8B9399;
+text-align: center;
+font-family: Roboto Mono;
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+  }
+  .exp{
+    color: #607D8B;
+  }
+}
