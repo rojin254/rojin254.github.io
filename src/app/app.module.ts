@@ -18,13 +18,15 @@ import { TabsComponent } from './tabs/tabs.component';
 import { AboutComponent } from './about/about.component';
 import { BackgroundComponent } from './background/background.component';
 import { SkillsComponent } from './skills/skills.component';
+import { ContactComponent } from './contact/contact.component';
 @NgModule({
   declarations: [
     AppComponent,
     TabsComponent,
     AboutComponent,
     BackgroundComponent,
-    SkillsComponent
+    SkillsComponent,
+    ContactComponent
     
   ],
   imports: [
